@@ -1,0 +1,4 @@
+{
+    "whois_api": "https://ipinfo.io/{ip}/json",
+    "use_external_api": true
+}
