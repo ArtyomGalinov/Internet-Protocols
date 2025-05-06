@@ -1,0 +1,25 @@
+{
+  "origin": "google.com.",
+  "time": "2025-05-06 15:56:33.612401",
+  "data": {
+    "null": [
+      {
+        "ttl": 743,
+        "value": "ns2.google.com"
+      },
+      {
+        "ttl": 743,
+        "value": "ns4.google.com"
+      },
+      {
+        "ttl": 743,
+        "value": "ns1.google.com"
+      },
+      {
+        "ttl": 743,
+        "value": "ns3.google.com"
+      }
+    ]
+  },
+  "ttl": 300
+}
